@@ -2,10 +2,6 @@
 
 Portfólio pessoal de **Miguel Assis**, estudante de Engenharia de Software e desenvolvedor com foco em front-end, de São Paulo – SP. O site reúne meus projetos, apresenta minha trajetória e habilidades e facilita o contato para oportunidades de estágio.
 
-## 🔗 Demo
-
-> Adicione aqui o link do portfólio publicado (ex: https://miguelassis-del.github.io/Meu-Portfolio`).
-
 ## ✨ Seções do site
 
 - **Início:** apresentação com foto, resumo profissional e links para GitHub e LinkedIn
